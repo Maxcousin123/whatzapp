@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041519518835",
+    "project_id": "my-chat-6465c",
+    "storage_bucket": "my-chat-6465c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041519518835:android:55258424aae6ec0211b606",
+        "android_client_info": {
+          "package_name": "com.moshaddy.whatzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041519518835-92nvhdvncla97umqkl9b7sgj7u8urk7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzhfgOGsmWQ50kKOh4yJkpPjogXSFBaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041519518835-92nvhdvncla97umqkl9b7sgj7u8urk7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
